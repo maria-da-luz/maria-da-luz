@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Maria Luz Pedro! 👋
 
-<!--
-**maria-da-luz/maria-da-luz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate software developer with a love for creating innovative solutions and collaborating on exciting projects. Here's a little bit about me:
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🌍 Based in: Lisbon, Portugal
+- 🎓 Education: Software Engineer from Instituto Superior de Engenharia de Lisboa
+- 🧑‍💻 Programming languages: Kotlin, JavaScript, C, Phyton
+- 💬 Ask me about: Sports, movies,...
+- 📫 How to reach me: marialggpedro@outlook.pt
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Maria Luz Pedro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maria-luz-pedro&show_icons=true&theme=radical)
+
+## 🏆 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maria-luz-pedro&layout=compact&theme=radical)
+
+Thanks for stopping by! 😊
+```` ▋
